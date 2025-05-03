@@ -1,5 +1,0 @@
-flask
-openai-whisper
-torch
-ffmpeg-python
-requests
